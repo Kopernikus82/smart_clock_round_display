@@ -1,5 +1,8 @@
+[![smart clock](https://github.com/Kopernikus82/smart_clock_round_display/blob/main/Uhr.jpg)
+
+
 # smart_watch_round_display
-Smart Clock with 1,28" display with integrated ESP32-C3
+Smart Clock with 1,28" display with integrated SP32-C3
 (ESP32-C3 with integrated GC9A01)
 
 
@@ -24,3 +27,5 @@ https://werner.rothschopf.net/microcontroller/202103_arduino_esp32_ntp_en.htm
 https://github.com/arendst/Tasmota/discussions/19487
 
 
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=GL9EF8CMQNQMU)
