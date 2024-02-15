@@ -17,3 +17,7 @@ So the red dot is the "second" and the time is displayed in the middle. The temp
 So the only think you need is a housing for the small devices and some changes for the code (Wifi, MQTT). Thats is.
 
 
+# Thanks to:
+
+https://werner.rothschopf.net/microcontroller/202103_arduino_esp32_ntp_en.htm
+https://github.com/arendst/Tasmota/discussions/19487
