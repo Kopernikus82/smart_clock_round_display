@@ -20,4 +20,7 @@ So the only think you need is a housing for the small devices and some changes f
 # Thanks to:
 
 https://werner.rothschopf.net/microcontroller/202103_arduino_esp32_ntp_en.htm
+
 https://github.com/arendst/Tasmota/discussions/19487
+
+
