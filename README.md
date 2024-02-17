@@ -1,7 +1,6 @@
-# smart_watch_round_display
-Smart Clock with 1,28" display with integrated SP32-C3
+# Smart Clock with a round display
+Smart Clock with 1,28" display with integrated ESP32-C3
 (ESP32-C3 with integrated GC9A01)
-
 
 So, i looked for a clock for my sleeping room. It should be bright enough to have a clear view und dark enough, that sleeping is no problem. As i found nothing in the worl wide shopping mall, i try to build one by myself.
 
